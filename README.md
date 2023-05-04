@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EJolloX
-- 👀 I’m interested in general development stuff.
-- 🌱 I’m currently learning DevOps stuff.
-- 💞️ I’m looking to collaborate on whatever.
-- 📫 How to reach me askmesomething [at] protonmail [dot] ch
+- 👋 Hi, I’m @EJolloX!
+- 👀 I’m interested in general development. Mainly videogames.
+- 🌱 I’m currently generally learning DevOps, Java and C#.
+- 💞️ I’m looking for ... love? :D
+- 📫 How to reach me : pikamillano [at] yahoo [dot] com
 
 <!---
 EJolloX/EJolloX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
